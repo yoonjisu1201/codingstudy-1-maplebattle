@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapleBattle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c1963d9f8653ce99bca0bd6e804e63fc5a4b9ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapleBattle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapleBattle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hamme\\source\\repos\\MapleBattle\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\codingstudy-1-maplebattle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82692906-3BE4-42E0-99C1-F4DBF1707CBF}|MapleBattle\\MapleBattle.csproj|c:\\users\\hamme\\source\\repos\\maplebattle\\maplebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82692906-3BE4-42E0-99C1-F4DBF1707CBF}|MapleBattle\\MapleBattle.csproj|solutionrelative:maplebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F49EC8AB-61A7-61B2-0C61-9A69090B1BED}|MapleBattle\\MapleBattle.csproj|c:\\users\\administrator\\documents\\github\\codingstudy-1-maplebattle\\maplebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EC8AB-61A7-61B2-0C61-9A69090B1BED}|MapleBattle\\MapleBattle.csproj|solutionrelative:maplebattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamme\\source\\repos\\MapleBattle\\MapleBattle\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\codingstudy-1-maplebattle\\MapleBattle\\Program.cs",
               "RelativeDocumentMoniker": "MapleBattle\\Program.cs",
-              "ToolTip": "C:\\Users\\hamme\\source\\repos\\MapleBattle\\MapleBattle\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\codingstudy-1-maplebattle\\MapleBattle\\Program.cs",
               "RelativeToolTip": "MapleBattle\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T11:13:10.331Z",
               "EditorCaption": ""
